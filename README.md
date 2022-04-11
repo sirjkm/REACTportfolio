@@ -6,4 +6,6 @@ This site is dedicated to the work of Jason Manning. I am a full-stack web devel
 
 # About
 
+I spent nearly twenty years in ozone industry. It taught me a lot about perseverance and mastery. I've now taken that and transferred into CS
+
 # Projects
