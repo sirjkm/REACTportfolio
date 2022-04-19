@@ -25,7 +25,7 @@ const Home = () => {
                         <AnimatedLetters letterClass={letterClass} 
                             strArray={jobArray} idx={25} />
                 </h1>
-                <Link to='/contact' className='flat-button'>CONTACT</Link>
+                <Link to='/contact' className='flat-button'>Contact Me</Link>
             </div>
         </div>
     )
